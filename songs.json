@@ -1,0 +1,48 @@
+
+[
+  {
+    "title": "მიყვარხარ იცოდე",
+    "titles": {
+      "ka": "მიყვარხარ იცოდე",
+      "ru": "Миквархар ицоде",
+      "en": "Miyvarxar Icode"
+    },
+    "file": "music/miyvarxar icode.mp3"
+  },
+  {
+    "title": "გრიალ გრიალით",
+    "titles": {
+      "ka": "გრიალ გრიალით",
+      "ru": "Грила Грилати",
+      "en": "Grila Grilati"
+    },
+    "file": "music/გრიალ გრიალით.mp3"
+  },
+  {
+    "title": "დაბადების დღე",
+    "titles": {
+      "ka": "დაბადების დღე",
+      "ru": "День рождения",
+      "en": "Birthday"
+    },
+    "file": "music/დაბადების დღე+++.mp3"
+  },
+  {
+    "title": "დაიკო",
+    "titles": {
+      "ka": "დაიკო",
+      "ru": "Сестрёнка",
+      "en": "Sister"
+    },
+    "file": "music/დაიკო++++.mp3"
+  },
+  {
+    "title": "დარი ხარ სიყვარულის",
+    "titles": {
+      "ka": "დარი ხარ სიყვარულის",
+      "ru": "Ты — погода любви",
+      "en": "You Are the Weather of Love"
+    },
+    "file": "music/დარი ხარ სიყვარულის+.mp3"
+  }
+]
